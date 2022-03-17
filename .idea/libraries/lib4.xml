@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/mybatis_demo4_DynamicSQL/out/lib/log4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mybatis_demo4_DynamicSQL/out/lib/ojdbc6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mybatis_demo4_DynamicSQL/out/lib/mysql-connector-java-5.1.37-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mybatis_demo4_DynamicSQL/out/lib/mybatis-3.4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
